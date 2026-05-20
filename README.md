@@ -205,9 +205,6 @@ or tools like:
 Backend can be deployed using:
 
 * Render
-* Railway
-* Cyclic
-* Vercel (Serverless)
 
 ---
 
