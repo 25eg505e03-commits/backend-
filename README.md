@@ -1,25 +1,25 @@
-# 📝 Blog App Backend API
+#  Blog App Backend API
 
 Backend server for a full-stack Blog & Article Publishing Platform built using Node.js, Express.js, and MongoDB. This backend provides REST APIs for authentication, role-based access control, article management, comments, and admin operations.
 
 
-# ✨ Features
-* 🔐 User Authentication & Authorization
-* 👤 Role-Based Access Control
+# Features
+* User Authentication & Authorization
+* Role-Based Access Control
   * Admin
   * Author
   * User
-* 📝 Create, Edit & Delete Articles
-* 💬 Comment System
-* 📂 Category-Based Articles
-* 🛡️ Protected Routes using JWT
-* 📦 MongoDB Database Integration
-* 🌐 RESTful API Architecture
-* ⚡ Express.js Middleware Support
+* Create, Edit & Delete Articles
+* Comment System
+* Category-Based Articles
+* Protected Routes using JWT
+* MongoDB Database Integration
+* RESTful API Architecture
+* Express.js Middleware Support
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology | Usage                 |
 | ---------- | --------------------- |
@@ -65,7 +65,7 @@ backend/
 
 ---
 
-# 🚀 Installation & Setup
+#Installation & Setup
 
 ## 1️⃣ Clone Repository
 
@@ -121,7 +121,7 @@ http://localhost:4000
 
 ---
 
-# 📡 API Modules
+# API Modules
 
 | API File       | Description                 |
 | -------------- | --------------------------- |
@@ -132,9 +132,9 @@ http://localhost:4000
 
 ---
 
-# 🗃️ Database Models
+# Database Models
 
-## 👤 User Model
+## User Model
 
 ```js
 {
@@ -150,7 +150,7 @@ http://localhost:4000
 
 ---
 
-## 📝 Article Model
+## Article Model
 
 ```js
 {
@@ -165,7 +165,7 @@ http://localhost:4000
 
 ---
 
-# 🔐 Authentication
+#Authentication
 
 This project uses:
 
@@ -175,7 +175,7 @@ This project uses:
 
 ---
 
-# 📦 Important Packages
+#Important Packages
 
 Install manually if needed:
 
@@ -185,7 +185,7 @@ npm install express mongoose dotenv cors bcryptjs jsonwebtoken
 
 ---
 
-# 🧪 API Testing
+# API Testing
 
 Use:
 
@@ -200,16 +200,8 @@ or tools like:
 
 ---
 
-# 🌍 Deployment
+# Deployment
 
 Backend can be deployed using:
 
 * Render
-
----
-
-# 👨‍💻 Author
-
-**Nigama Vydyula**
-
----
